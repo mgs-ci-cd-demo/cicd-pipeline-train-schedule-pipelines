@@ -14,4 +14,4 @@ You can run the app with:
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
-This is my fist edit in the README.md for master branch.
+This is my second edit in the README.md for master branch.
